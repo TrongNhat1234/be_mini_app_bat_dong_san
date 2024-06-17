@@ -587,13 +587,13 @@
     fast-querystring "^1.0.0"
     fastify-plugin "^4.0.0"
 
-"@fastify/helmet@^10.0.2":
-  version "10.0.2"
-  resolved "https://registry.npmjs.org/@fastify/helmet/-/helmet-10.0.2.tgz"
-  integrity sha512-gljMbmHJbH85DUfZKN982Pg1hwzX/5Bcizduf1pdjh2uuOqjsqEc49ExSk6U3VNqqTlpm8e+hMaVDSJg2AUrGQ==
+"@fastify/helmet@^11.1.1":
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/@fastify/helmet/-/helmet-11.1.1.tgz#214ae9602c2faaf8d094d8f2ec72680bbd311d85"
+  integrity sha512-pjJxjk6SLEimITWadtYIXt6wBMfFC1I6OQyH/jYVCqSAn36sgAIFjeNiibHtifjCd+e25442pObis3Rjtame6A==
   dependencies:
     fastify-plugin "^4.2.1"
-    helmet "^6.0.0"
+    helmet "^7.0.0"
 
 "@fastify/middie@8.0.0":
   version "8.0.0"
@@ -4870,10 +4870,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-helmet@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/helmet/-/helmet-6.0.0.tgz"
-  integrity sha512-FO9RpR1wNJepH/GbLPQVtkE2eESglXL641p7SdyoT4LngHFJcZheHMoyUcjCZF4qpuMMO1u5q6RK0l9Ux8JBcg==
+helmet@^7.0.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/helmet/-/helmet-7.1.0.tgz#287279e00f8a3763d5dccbaf1e5ee39b8c3784ca"
+  integrity sha512-g+HZqgfbpXdCkme/Cd/mZkV0aV3BZZZSugecH03kl38m/Kmdx8jKjBikpDj2cr+Iynv4KpYEviojNdTJActJAg==
 
 hexoid@^1.0.0:
   version "1.0.0"
