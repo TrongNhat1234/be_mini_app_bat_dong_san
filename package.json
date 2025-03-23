@@ -31,7 +31,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.config.js --forceExit"
   },
   "dependencies": {
-    "@fastify/helmet": "^10.0.2",
+    "@fastify/helmet": "^11.1.1",
     "@fastify/multipart": "^8.3.0",
     "@fastify/static": "^6.5.0",
     "@nestjs-architects/typed-cqrs": "^1.0.0",
